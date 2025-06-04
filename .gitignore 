@@ -1,0 +1,18 @@
+# Ignore Jupyter checkpoints
+**/.ipynb_checkpoints/
+
+# Ignore data files (Kaggle CSV) until we explicitly add small samples
+/data/
+
+# Ignore Python cache directories
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+venv/
+env/
+*.egg-info/
+
+# Ignore Mac/Linux swap files
+*.swp
+
